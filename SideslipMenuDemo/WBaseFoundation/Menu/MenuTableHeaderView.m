@@ -7,7 +7,7 @@
 //
 
 #import "MenuTableHeaderView.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+//#import <SDWebImage/UIImageView+WebCache.h>
 
 @implementation MenuTableHeaderView
 

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04E7E1B61D791C68009CBE3C"
+               BlueprintIdentifier = "0489E6541D79304200721970"
                BuildableName = "SideslipMenuDemo.app"
                BlueprintName = "SideslipMenuDemo"
                ReferencedContainer = "container:SideslipMenuDemo.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E7E1B61D791C68009CBE3C"
+            BlueprintIdentifier = "0489E6541D79304200721970"
             BuildableName = "SideslipMenuDemo.app"
             BlueprintName = "SideslipMenuDemo"
             ReferencedContainer = "container:SideslipMenuDemo.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E7E1B61D791C68009CBE3C"
+            BlueprintIdentifier = "0489E6541D79304200721970"
             BuildableName = "SideslipMenuDemo.app"
             BlueprintName = "SideslipMenuDemo"
             ReferencedContainer = "container:SideslipMenuDemo.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E7E1B61D791C68009CBE3C"
+            BlueprintIdentifier = "0489E6541D79304200721970"
             BuildableName = "SideslipMenuDemo.app"
             BlueprintName = "SideslipMenuDemo"
             ReferencedContainer = "container:SideslipMenuDemo.xcodeproj">
